@@ -1,41 +1,64 @@
+# Hey there, I'm Martin Osei Boakye 👋
 
-
-<!---
-
-
----
-
-### 👋 About Me
-
-Hello there! I'm **Martin Osei Boakye**, a passionate and curious **Computer Science undergraduate at KNUST**, Kumasi. I enjoy learning about how technology shapes the world and love building things that solve real problems.
-
-I’m currently exploring a wide range of topics, from **Object-Oriented Programming in Java** to **Operating Systems, Databases**, and **Cloud Computing**. I have a growing interest in **mobile development**, **web technologies**, and **AI-driven apps**, especially those that can make everyday life more efficient.
+I'm a **BSc. Computer Science** student at **KNUST** (Kwame Nkrumah University of Science and Technology), passionate about building things that are useful, elegant, and well-crafted. I believe great software lives at the intersection of innovation and simplicity.
 
 ---
 
-### 🛠️ Skills & Interests
+## 👨‍💻 About Me
 
-* 💻 Programming: C++, Java, Python, HTML, CSS, JavaScript
-* 📊 Databases: SQL, MySQL (still learning!)
-* 🌐 Interests: Android development, Open Source Software, UI/UX Design, Cloud Services
-* 📚 Currently Learning: React Native, Git & GitHub, Systems Design
-
----
-
-### 🚀 Goals
-
-* Build mobile and web applications that are helpful and user-friendly
-* Contribute to open-source projects and collaborate with other developers
-* Continuously improve my skills through projects, research, and teamwork
+- 🎓 Studying Computer Science at KNUST, Kumasi
+- 🌱 Junior full-stack web & mobile app developer
+- ⚡ I love turning ideas into real, working products
+- 🤝 Open to collaboration, open-source contributions, and interesting projects
 
 ---
 
-### 📫 Let's Connect
+## 🛠️ Tech Stack
 
-If you’re working on something interesting, feel free to reach out — I love working with others and learning new things. You can find me on GitHub, LinkedIn, or reach out via email!
+**Frontend**
+- React · Next.js · React Native
+
+**Backend & Database**
+- Supabase · PostgreSQL
+
+**Tools & Others**
+- Git & GitHub · REST APIs · JavaScript / TypeScript
 
 ---
 
-Let me know if you want to include links to your LinkedIn, email, portfolio, or specific repositories, and I’ll customize it further.
+## 🚀 Goals
 
---->
+- Build mobile and web applications that are helpful, accessible, and user-friendly
+- Contribute meaningfully to open-source projects and collaborate across communities
+- Continuously sharpen my skills through real projects, research, and teamwork
+- Help drive tech innovation across Africa, starting right here at KNUST
+
+---
+
+## 📌 Featured Projects
+
+> _Coming soon — building in public, one commit at a time._
+
+<!--
+Example format when ready:
+
+### 🔹 [Project Name](https://github.com/your-username/project)
+A short description of what it does and why it matters.
+`React` `Supabase` `Next.js`
+-->
+
+---
+
+## 📫 Let's Connect
+
+If you're working on something interesting, I'd love to hear about it. I enjoy collaborating, learning, and building with others.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martinoseiboakye/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](mailto:martinosb2023@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/martinosb)
+
+---
+
+<p align="center">
+  <i>"Build things that matter."</i>
+</p>
